@@ -131,7 +131,7 @@ Projeyi yerel ortamınızda geliştirmek veya özelleştirmek isterseniz:
 
 1. **Depoyu klonlayın:**
    ```bash
-   git clone https://github.com/kullaniciadi/cctv-viewer.git
+   git clone https://github.com/aslansuat/cctv-viewer.git
    cd cctv-viewer
    ```
 
